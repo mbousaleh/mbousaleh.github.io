@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "My CV",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -460,13 +460,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("mailto:%6D%69%72%61%62%6F%75%73%61%6C%65%68@%67%6D%61%69%6C.%63%6F%6D", "_blank");
-        },
-      },{
-        id: 'social-instagram',
-        title: 'Instagram',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://instagram.com/mirabousaleh", "_blank");
         },
       },{
         id: 'social-linkedin',
