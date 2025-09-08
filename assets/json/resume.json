@@ -1,15 +1,15 @@
 {
-  "Basics": {
+  "basics": {
     "name": "Mira BOU SALEH",
     "image": "",
     "email": "mirabousaleh@gmail.com",
     "location": {
       "postalCode": "54000",
       "city": "Nancy",
-      "country": "France"
+      "region": "France"
     }
   },
-  "Work": [
+  "work": [
     {
       "name": "IDMC, Université de Lorraine",
       "position": "Enseignante Responsable Pédagogoqie",
@@ -26,7 +26,7 @@
       "highlights":["Algorithms and Programming"]
     }
   ],
-  "Education": [
+  "education": [
     {
       "institution": "Université de Technologie de Belfort-Montbéliard",
       "location": "Belfort, France",
@@ -35,13 +35,94 @@
       "endDate": "2023-12-18"
     }
   ],
-  "publications": [
-    
+  "skills": [
+    {
+      "name": "Optimization and Operations Research",
+      "level": "PhD",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Combinatorial optimization",
+        "Linear and nonlinear programming, Mixed-Integer Linear Programming (MILP),",
+        "Multi-objective optimization",
+        "Assignment problems",
+        "Scheduling problems",
+        "Routing problems",
+        "Exact, Heuristics and Metaheuristics Methods",
+        "Tools: Gurobi, GLPK, Irace"
+      ]
+    },
+    {
+      "name": "BI and Data Analysis",
+      "level": "Master",
+      "icon":"fa-solid fa-hashtag",
+      "keywords":[
+        "Business Intelligence (BI)", 
+        "Data warehousing", 
+        "Multidimensional modeling", 
+        "ETL (Extract, Transform, Load)", 
+        "Dashboards", 
+        "Data visualization", 
+        "KPI management", 
+        "Data-driven optimization and decision-making",
+        "Tools: Power BI, Tableau, QlikView, Pandas."
+      ]
+    },
+    {
+      "name": "Programming and Development",
+      "level": "Master",
+      "icon":"fa-solid fa-hashtag",
+      "keywords":[
+        "Python", 
+        "Java", 
+        "C/C++", 
+        "Matlab", 
+        "GMPL", 
+        "PL/SQL", 
+        "LaTeX", 
+        "Object-Oriented Programming (OOP)", 
+        "UML modeling", 
+        "Advanced algorithm design and development", 
+        "Web development and user interfaces", 
+        "Database management (PostgreSQL, MySQL, Oracle Database, MySQL Workbench)",
+        "Environments and Tools: Jupyter Notebook, Google Colab, VS Code, NetBeans, Eclipse."
+      ]
+    },
+    {
+      "name": "Systems and Networks",
+      "level":"Master",
+      "icon":"fa-solid fa-hashtag",
+      "keywords":[
+        "Linux", 
+        "Windows", 
+        "System and network administration", 
+        "GSM, UMTS, LTE and 5G", 
+        "KPI monitoring", 
+        "Network performance optimization"
+      ]
+    },
+    {
+      "name": "Soft Skills",
+      "level": "Master",
+      "icon":"fa-solid fa-hashtag",
+      "keywords":[
+        "Decision-making", 
+        "Critical thinking", 
+        "Complex problem-solving", 
+        "Project management", 
+        "Autonomy", 
+        "Adaptability", 
+        "Teamwork", 
+        "Student supervision (academic support, project mentoring, internship tutoring)", 
+        "Foreign languages", 
+        "Scientific communication", 
+        "Article writing", 
+        "Conference presentations", 
+        "Ability to work under pressure", 
+        "Managing multiple responsibilities simultaneously"
+      ]
+    }
   ],
-  "Skills": [
-
-  ],
-  "Languages": [
+  "languages": [
     {
       "language": "French",
       "fluency": "Near Native",
