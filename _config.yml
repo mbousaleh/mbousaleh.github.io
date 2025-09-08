@@ -6,8 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Mira
 middle_name: 
 last_name: BOU SALEH
-contact_note: >
-  contact me : mirabousaleh@gmail.com
+contact_note: # contact me : mirabousaleh@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Mira BOU SALEH. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
