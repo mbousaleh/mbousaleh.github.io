@@ -49,7 +49,7 @@
       "position": "PhD Research Assistant",
       "startDate": "2020-09-01",
       "endDate": "2023-12-18",
-      "summary": "Generalized Assignment Problems and Planning Optimization for Specialized Education and Home Care Services.",
+      "summary": "Generalized Ressource Assignment and Planning Optimization for Specialized Education and Home Care Services.",
       "highlights": [
         "Multi-objective MILP models",
         "Heuristics and metaheuristics (Genetic Algorithms, Discrete Invasive Weed Optimization)",
@@ -131,19 +131,19 @@
       "name": "Generalized Resource Assignment and Planning Optimization",
       "startDate": "2020-09-01",
       "endDate": "2023-12-18",
-      "summary": "Optimization of assignments, planning, and routing in specialized education and home care services."
+      "summary": "This project, conducted at the NIT-O2S lab of UTBM under the supervision of Dr. Amir HAJJAM EL HASSANI and Dr. Olivier GRUNDER, focused on optimizing resource assignment and planning in specialized education and home care services in France. It addressed three challenges: multi-day assignment (SES-MAP), optimization including travel considerations (SEHCS-MAPTP), and multi-center management at the departmental level. For SES-MAP, a multi-objective MILP model maximized student satisfaction and balanced workload. For SEHCS-MAPTP, MILP models and metaheuristics optimized assignment and planning, incorporating travel and distance. Multi-center management combined hierarchical mission allocation and internal center planning. This work produced four papers, including two in scientific journals, and was presented at one national and two international conferences."
     },
     {
-      "name": "Antenna Optimizer System (AOS)",
+      "name": "A Novel Software Tool for Antenna Design - Antenna Optimizer System (AOS)",
       "startDate": "2019-03-01",
       "endDate": "2020-02-29",
-      "summary": "Software tool for antenna design optimization using Invasive Weed Optimization."
+      "summary": "In this project, I developed an Antenna Optimizer System (AOS), a software tool that optimizes antenna dimensions to meet frequency and bandwidth specifications. AOS operates in three phases: initialization (preparation), optimization (IWO algorithm and cost functions), and finalization (results validation). Tested on a multi-band dipole antenna, AOS demonstrated speed and efficiency compared to CST's optimizer (genetic algorithm), with two papers published in an international conference."
     },
     {
-      "name": "Shared Taxi Platform (Lebanon)",
+      "name": "Platform to Promote and Optimize Access to Shared Taxis in Lebanon",
       "startDate": "2018-05-01",
       "endDate": "2018-10-31",
-      "summary": "Platform to improve access to shared taxis in Lebanon by optimizing passenger-driver matching."
+      "summary": "This project involved a platform to improve the relationship between passengers and public transport, especially Lebanese public taxis known as 'service'. My role was to develop the back-end of the platform, which provides passengers with route options between their departure point and destination, including meeting points with different drivers in their area matching their preferences. Two papers were published."
     }
   ],
   "teaching": [
