@@ -2,9 +2,7 @@
   "basics": {
     "name": "Mira BOU SALEH",
     "label": "PhD in Computer Science | Operations Research & Optimization Specialist | MEng. in Telecommunications & Informatics",
-    "image": "",
     "email": "mirabousaleh@gmail.com",
-    "phone": "+33 6 58 18 85 68",
     "url": "https://www.linkedin.com/in/mira-bou-saleh",
     "location": {
       "postalCode": "54000",
@@ -15,13 +13,13 @@
   "work": [
     {
       "name": "IDMC, University of Lorraine",
-      "position": "Lecturer & Academic Coordinator (MIASHS Year 1)",
+      "position": "Lecturer & Academic Coordinator",
       "startDate": "2024-10-01",
-      "endDate": "",
-      "summary": "Responsible for academic coordination, teaching, and student support for MIASHS Bachelor's and MIAGE Master's programs.",
+      "endDate": "2025-08-31",
+      "summary": "Academic coordinator of MIASHS L1, teaching, and student support for MIASHS Bachelor's and MIAGE Master's programs.",
       "highlights": [
         "Academic coordination: advising and supporting students, organizing exams, managing timetables",
-        "Teaching: Python, Business Intelligence, Advanced Algorithms",
+        "Teaching: Python, Business Intelligence, Advanced Algorithms, Database",
         "Project supervision and jury member for internship defenses"
       ]
     },
@@ -32,37 +30,35 @@
       "endDate": "2024-08-31",
       "summary": "Taught undergraduate courses and supervised students in MIAGE program.",
       "highlights": [
-        "Algorithms and Programming",
-        "Supervision of undergraduate internships"
+        "Teaching : Algorithms and Programming, Java",
+        "Supervision of undergraduate internships and Jury member for internship ddefenses"
       ]
     },
     {
-      "name": "UTBM, University of Technology of Belfort-Montbéliard",
+      "name": "University of Technology of Belfort-Montbéliard",
       "position": "Lecturer & Research Assistant (ATER), NIT-O2S Laboratory",
       "startDate": "2022-09-01",
       "endDate": "2023-08-31",
       "summary": "Taught courses for computer science and industrial systems engineering students, and participated in internship juries.",
       "highlights": [
-        "Optimization and Operations Research",
-        "Object-Oriented Programming with Java",
-        "Linux and Network Administration"
+        "Teaching : Optimization and Operations Research, Object-Oriented Programming with Java, Linux and Network Administration"
       ]
     },
     {
-      "name": "UBFC, UTBM",
+      "name": "UBFC, University of Technology of Belfort-Montbéliard",
       "position": "PhD Research Assistant",
       "startDate": "2020-09-01",
       "endDate": "2023-12-18",
-      "summary": "Developed models and optimization tools for specialized education and home care services.",
+      "summary": "Generalized Assignment Problems and Planning Optimization for Specialized Education and Home Care Services.",
       "highlights": [
         "Multi-objective MILP models",
         "Heuristics and metaheuristics (Genetic Algorithms, Discrete Invasive Weed Optimization)",
-        "4 scientific publications, 1 submitted, 1 in preparation"
+        "5 scientific publications"
       ]
     },
     {
-      "name": "UTBM",
-      "position": "Back-End Java/JavaEE Developer (Internship)",
+      "name": "University of Technology of Belfort-Montbéliard",
+      "position": "Back-End Java/JavaEE Developer",
       "startDate": "2020-03-01",
       "endDate": "2020-08-31",
       "summary": "Developed backend functionalities and improved UX/UI.",
@@ -109,19 +105,19 @@
   ],
   "education": [
     {
+      "institution": "Antonine University",
+      "location": "Hadat-Baabda, Lebanon",
+      "area": "Informatics and Telecommunications",
+      "studyType": "Master in Engineering",
+      "endDate": "2019-07-01"
+    },
+    {
       "institution": "University of Technology of Belfort-Montbéliard (UTBM)",
       "location": "Belfort, France",
       "area": "Computer Science / Operations Research",
       "studyType": "PhD",
       "endDate": "2023-12-18",
       "thesis": "Generalized Resource Assignment and Planning Optimization in Specialized Education and Home Care Services"
-    },
-    {
-      "institution": "Antonine University",
-      "location": "Hadat-Baabda, Lebanon",
-      "area": "Informatics and Telecommunications",
-      "studyType": "Master in Engineering",
-      "endDate": "2019-07-01"
     }
   ],
   "projects": [
@@ -148,28 +144,6 @@
       "startDate": "2018-05-01",
       "endDate": "2018-10-31",
       "summary": "Platform to improve access to shared taxis in Lebanon by optimizing passenger-driver matching."
-    }
-  ],
-  "publications": [
-    {
-      "year": 2024,
-      "title": "Reactive tabu search and mixed-integer linear programming for multi-day assignment, scheduling, and routing problems of specialized education and home-care services",
-      "journal": "International Journal of Production Research"
-    },
-    {
-      "year": 2023,
-      "title": "Discrete invasive weed optimization and greedy hybridization algorithm for home care multi-day assignment scheduling and routing problems",
-      "conference": "9th International Conference on Control, Decision and Information Technologies (CoDIT)"
-    },
-    {
-      "year": 2022,
-      "title": "A platform management system that links commuters with shared or service taxis",
-      "journal": "World Safety Journal"
-    },
-    {
-      "year": 2022,
-      "title": "Mixed-integer linear programming for specialized education and home care services",
-      "journal": "IFAC-PapersOnLine"
     }
   ],
   "teaching": [
@@ -258,14 +232,9 @@
     }
   ],
   "languages": [
-    { "language": "French", "fluency": "Near Native" },
+    { "language": "French", "fluency": "Bilingual" },
     { "language": "English", "fluency": "Fluent" },
     { "language": "Arabic", "fluency": "Native" },
     { "language": "Spanish", "fluency": "Beginner" }
-  ],
-  "interests": [
-    "Traveling and discovering new places (10+ countries)",
-    "Scientific reviewing (IJPR, ISC, IFAC conferences)",
-    "Qualified for French national teaching/research (CNU Section 27 & 61)"
   ]
 }
