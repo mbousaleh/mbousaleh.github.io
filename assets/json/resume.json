@@ -106,18 +106,20 @@
   "education": [
     {
       "institution": "Antonine University",
+      "date" : "2019",
       "location": "Hadat-Baabda, Lebanon",
       "area": "Informatics and Telecommunications",
       "studyType": "Master in Engineering",
-      "endDate": "2019-07-01"
     },
     {
       "institution": "University of Technology of Belfort-Montbéliard (UTBM)",
       "location": "Belfort, France",
       "area": "Computer Science / Operations Research",
       "studyType": "PhD",
-      "endDate": "2023-12-18",
-      "thesis": "Generalized Resource Assignment and Planning Optimization in Specialized Education and Home Care Services"
+      "date": "2023",
+      "highlights": [
+        "Generalized Resource Assignment and Planning Optimization in Specialized Education and Home Care Services"
+      ]
     }
   ],
   "projects": [
