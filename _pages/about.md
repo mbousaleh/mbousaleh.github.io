@@ -24,9 +24,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-## 🇬🇧 English Version
+🇬🇧 English Version 🇬🇧 
 
-### Hello 👋🏻 
+Hello 👋🏻 
 
 I am a research scientist and engineer specializing in **Operations Research and Optimization**. My work focuses on developing mathematical models and algorithms to address **assignment, scheduling, and routing problems**, with applications in **logistics, healthcare, and specialized education**.  
 
@@ -37,9 +37,9 @@ My contributions aim both to advance the **theoretical foundations** of optimiza
 
 ---
 
-## 🇫🇷 Version Française
+🇫🇷 Version Française 🇫🇷
 
-### Bonjour 👋🏻 
+Bonjour 👋🏻 
 
 Je suis chercheuse et ingénieure en informatique, spécialisée en **Recherche Opérationnelle et Optimisation**. Mes travaux portent sur la conception de modèles mathématiques et d’algorithmes pour résoudre des problèmes complexes d’**affectation, de planification et de routage**, avec des applications en **logistique, santé et éducation spécialisée**.  
 
