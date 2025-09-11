@@ -1,8 +1,11 @@
 ---
-layout: about
-title: about
+layout: About
+title: About
 permalink: /
-subtitle: Ph.D. in Informatics | OR and Optimization Specialist | MEng. in Computer and Communications Engineering
+subtitle: |
+          Ph.D. in Computer Science 
+          Operations Research and Optimization Specialist 
+          MEng. in Computer and Communications Engineering
 
 profile:
   align: right
@@ -24,12 +27,26 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+## 🇬🇧 English Version
 
-Hello ! 😁
+### Hello 👋🏻 
 
-I am a research scientist and engineer dedicated to optimizing and enhancing individuals’ daily lives through innovative technological solutions. With a PhD in Informatics specializing in Operations Research and Optimization and a Master’s in Engineering in Computer and Communications, I bring a comprehensive and multifaceted approach to problem-solving and project execution.
-I thrive on the challenge of developing and implementing innovative solutions that address broadly relevant problems. 
-My goal is to contribute to developing cutting-edge solutions that address real-world challenges and drive technological progress.
+I am a research scientist and engineer specializing in **Operations Research and Optimization**. My work focuses on developing mathematical models and algorithms to address **assignment, scheduling, and routing problems**, with applications in **logistics, healthcare, and specialized education**.  
 
-I hold a Ph.D. in Informatics in 2023 from the NIT-O2S Laboratory at the University of Bourgogne Franche-Comté (UBFC) and the University of Technology of Belfort-Montbéliard (UTBM), France. In my doctoral thesis, I tackled complex resource assignment and planning problems specifically in the domains of specialised education and home care services. My expertise encompasses a range of advanced methodologies, including Mixed-Integer Linear Programming, as well as heuristic, and meta-heuristic approaches, with a particular emphasis on resolving assignment, scheduling, and routing problems. I has successfully developed innovative multi-objective optimisation approaches and tools, resulting in several publications in high-impact journals and presentations at prestigious international conferences. My work has made significant contributions to the fields of Operations Research and Optimization, providing practical and impactful solutions to challenges in logistics and healthcare. My research not only enhances theoretical understanding but also translates into valuable real-world applications.
+I obtained my **PhD in Computer Science** in 2023 from the University of Bourgogne Franche-Comté (UBFC) and the University of Technology of Belfort-Montbéliard (UTBM), as a member of the NIT-O2S Laboratory. My doctoral research investigated **resource assignment and planning problems** in specialized education and home care services. To address these challenges, I applied **Mixed-Integer Linear Programming**, as well as **heuristic and metaheuristic methods**, and proposed **multi-objective optimization approaches**.  
+This research has resulted in several **peer-reviewed publications** and presentations at **international conferences**. 
 
+My contributions aim both to advance the **theoretical foundations** of optimization and to provide **practical methodologies** for real-world decision-making problems.  
+
+---
+
+## 🇫🇷 Version Française
+
+### Bonjour 👋🏻 
+
+Je suis chercheuse et ingénieure en informatique, spécialisée en **Recherche Opérationnelle et Optimisation**. Mes travaux portent sur la conception de modèles mathématiques et d’algorithmes pour résoudre des problèmes complexes d’**affectation, de planification et de routage**, avec des applications en **logistique, santé et éducation spécialisée**.  
+
+J’ai obtenu mon **doctorat en informatique** en 2023 à l’Université de Bourgogne Franche-Comté (UBFC) et à l’Université de Technologie de Belfort-Montbéliard (UTBM), au sein du laboratoire NIT-O2S. Ma thèse a porté sur des **problèmes d’affectation et de planification des ressources** dans le domaine de l’éducation spécialisée et des services de soins à domicile. Pour relever ces défis, j’ai utilisé la **programmation linéaire en nombres entiers mixtes**, ainsi que des méthodes **heuristiques et métaheuristiques**, en développant des **approches multi-objectifs**.  
+Ces travaux ont donné lieu à plusieurs **publications dans des revues internationales** et à des présentations dans des **conférences scientifiques**. 
+
+Mes recherches visent à contribuer à l’**avancement théorique** de l’optimisation tout en proposant des **méthodologies robustes et applicables** aux problèmes concrets de prise de décision.  
