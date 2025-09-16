@@ -2,14 +2,11 @@
 layout: about
 title: About
 permalink: /
-subtitle: >
-          Ph.D. in Computer Science  
-          Operations Research and Optimization Specialist  
-          MEng. in Computer and Communications Engineering    
+subtitle: Ph.D. in Computer Science | Operations Research and Optimization Specialist | MEng. in Computer and Communications Engineering    
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile-pic-phd.jpg
   image_circular: false # crops the image to make it circular
   more_info: 
 
